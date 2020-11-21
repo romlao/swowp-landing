@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="LogoSwowp.svg"
+   id="svg1070"
+   version="1.1"
+   viewBox="0 0 112.434 24.595"
+   height="24.595"
+   width="112.434">
+  <metadata
+     id="metadata1074">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="Groupe_6"
+     inkscape:window-maximized="1"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="12.2975"
+     inkscape:cx="56.216999"
+     inkscape:zoom="7.3109559"
+     showgrid="false"
+     id="namedview1072"
+     inkscape:window-height="1004"
+     inkscape:window-width="1792"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs1060">
+    <clipPath
+       id="clip-path">
+      <rect
+         fill="none"
+         transform="translate(0 0)"
+         height="24.595"
+         width="112.434"
+         data-name="Rectangle 5"
+         id="Rectangle_5" />
+    </clipPath>
+  </defs>
+  <g
+     transform="translate(0 0)"
+     data-name="Groupe 7"
+     id="Groupe_7">
+    <g
+       clip-path="url(#clip-path)"
+       data-name="Groupe 6"
+       id="Groupe_6">
+      <path
+         fill="#517cf4"
+         d="M60.97,15.326a9.06,9.06,0,0,1-12.909,0,8.627,8.627,0,0,1,0-12.624,9.06,9.06,0,0,1,12.909,0,8.647,8.647,0,0,1,0,12.624m-9.438-3.039a4.042,4.042,0,0,0,5.976,0,4.552,4.552,0,0,0,1.259-3.264,4.577,4.577,0,0,0-1.259-3.272,4.021,4.021,0,0,0-5.976,0,4.57,4.57,0,0,0-1.261,3.272,4.545,4.545,0,0,0,1.261,3.264"
+         data-name="Tracé 1"
+         id="Tracé_1" />
+      <path
+         fill="#517cf4"
+         d="M109.7,15.326a9.061,9.061,0,0,1-12.91,0,8.63,8.63,0,0,1,0-12.624,9.061,9.061,0,0,1,12.91,0,8.647,8.647,0,0,1,0,12.624m-9.438-3.039a4.041,4.041,0,0,0,5.975,0,4.548,4.548,0,0,0,1.26-3.264,4.574,4.574,0,0,0-1.26-3.272,4.02,4.02,0,0,0-5.975,0A4.57,4.57,0,0,0,99,9.023a4.545,4.545,0,0,0,1.261,3.264"
+         data-name="Tracé 2"
+         id="Tracé_2" />
+      <path
+         fill="#517cf4"
+         d="M94.48,13.889c-.034-.069-.02,10.706-.02,10.706h5.013V18.389a10.263,10.263,0,0,1-4.993-4.5"
+         data-name="Tracé 3"
+         id="Tracé_3" />
+      <path
+         fill="#517cf4"
+         d="M38.454,2.72V9.407c0,2.788-.9,4.071-2.947,4.071s-3.039-1.283-3.039-4.071V2.72H27.629V9.407c0,2.788-.993,4.071-3.04,4.071s-2.947-1.283-2.947-4.071V.485H16.8v9.3c0,4.948,2.7,7.8,7.723,7.8,2.419,0,4.249-.688,5.521-2.379,1.3,1.753,3.195,2.379,5.49,2.379,4.994,0,7.755-2.848,7.755-7.8V2.72Z"
+         data-name="Tracé 4"
+         id="Tracé_4" />
+      <path
+         fill="#517cf4"
+         d="M70.44,2.72V9.407c0,2.788.9,4.071,2.946,4.071s3.04-1.283,3.04-4.071V2.72h4.839V9.407c0,2.788.992,4.071,3.039,4.071s2.948-1.283,2.948-4.071V.485H92.09v9.3c0,4.948-2.7,7.8-7.723,7.8-2.42,0-4.25-.688-5.522-2.379-1.3,1.753-3.194,2.379-5.489,2.379-4.994,0-7.755-2.848-7.755-7.8V2.72Z"
+         data-name="Tracé 5"
+         id="Tracé_5" />
+      <path
+         fill="#517cf4"
+         d="M5.062,5.733c0-.874.937-1.562,3.124-1.562a9.66,9.66,0,0,1,4.843,1.25l.3-.652V1.344A15.585,15.585,0,0,0,8.186.485C3.281.485.407,2.734.407,5.92c0,6.717,10.153,3.906,10.153,6.656,0,.936-.844,1.53-3.093,1.53a11.511,11.511,0,0,1-5.843-1.624L0,15.981a14.442,14.442,0,0,0,7.28,1.812c5.03,0,7.935-2.218,7.935-5.342,0-6.624-10.153-3.843-10.153-6.718"
+         data-name="Tracé 6"
+         id="Tracé_6" />
+    </g>
+  </g>
+</svg>
